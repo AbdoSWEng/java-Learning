@@ -29,6 +29,7 @@ public class variables {
 
         // Display the variables on the screen
 
+        System.out.println("------------------");
         System.out.println(i);
         System.out.println(x);
         System.out.println(num);
